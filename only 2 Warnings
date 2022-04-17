@@ -1,0 +1,8 @@
+array(6) { ["kundennrtxt"]=> string(0) "" ["nametxt"]=> string(0) "" ["adressetxt"]=> string(0) "" ["radio"]=> string(1) "1" ["weinflaschenanzahltxt"]=> string(1) "4" ["rechnen"]=> string(7) "rechnen" }
+Warning: Undefined variable $radio in C:\Portable\XAMPP\htdocs\weingut_2b\Weingut.php on line 65
+
+Warning: Undefined variable $betrag in C:\Portable\XAMPP\htdocs\weingut_2b\Weingut.php on line 65
+Sehr geehrte Kundin, sehr geehrter Kunde vielen dank für ihre Bestellung.
+
+Sie haben 4 Flaschen der Sorte geordert, dafür zahlen sie bitte € .
+Der Preis ist inklusive Mehrwertsteuer und Versandkosten in höhe von 6,90 €
